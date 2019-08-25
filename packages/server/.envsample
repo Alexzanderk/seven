@@ -1,0 +1,5 @@
+NODE_ENV=development
+MONGO_URI=mongodb://user:pass.mlab.com:25341/db
+MONGO_LOCAL=mongodb://localhost:27017/db
+OAUTH_CLIENT_ID=3213122871377-gonr68hod0gdlg5aj4a38hqhtcl2d78n.apps.googleusercontent.com
+GRAPHQL_ENDPOINT=http://localhost:5000/graphql
